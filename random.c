@@ -9,7 +9,6 @@ int random_f(int max){
  int x;
  x = rand() % max + 1;
 
- 
  return x;
 }
 
